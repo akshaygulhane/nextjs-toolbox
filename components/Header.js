@@ -3,23 +3,18 @@ export default function Header({ title }) {
     <>
       <h1 className="title">{title}</h1>
       <p>
-        Hi 👋! This template gives you a{" "}
-        <a href="https://nextjs.org/">Next.js</a> app with the scaffolding for{" "}
-        <a href="https://www.netlify.com/products/functions/">
-          Netlify Functions
-        </a>
-        , <a href="https://www.netlify.com/products/forms/">Forms</a>, and{" "}
-        <a href="https://docs.netlify.com/routing/redirects/">Redirects</a>. Our
-        aim was to give you the code you would need to hit the ground running
-        with a few fun features.
+       InstaClicks is the one-stop-shop for visual content creation. 
+       From on-demand photoshoots to on-demand editing.
       </p>
 
       <p>
-        You can find the code for this project on GitHub at{" "}
-        <a href="https://github.com/netlify-templates/nextjs-toolbox">
-          https://github.com/netlify-templates/nextjs-toolbox
-        </a>
-        ! Happy coding!
+        We are currently in Alpha testing stage and will go live soon!
+        We will keep this page updated with the latest news.
+      </p>
+
+      <p>
+        Thank you for visiting!
+        
       </p>
     </>
   );
